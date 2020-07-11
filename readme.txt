@@ -10,4 +10,7 @@ make
 Open "results.jpg" and see if rectangles are drawn over the correct locations.
 
 Works on Nano Jetpack 4.3
-Does not work on Xavier NX Jetpack 4.4 GA
+Does not work on Xavier NX Jetpack 4.4 GA (see rectangles in the wrong places)
+
+
+https://forums.developer.nvidia.com/t/xavier-nx-jetpack-4-4-ga-trt-gives-wrong-results-for-a-specific-caffe-model/141529
